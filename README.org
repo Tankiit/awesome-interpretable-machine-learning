@@ -473,11 +473,7 @@ Opinionated list of resources facilitating model interpretability
      + https://github.com/jphall663/awesome-machine-learning-interpretability
    + *Awesome* XAI resources by Przemysław Biecek
      + https://github.com/pbiecek/xai_resources
-We are also open to any ideas for improvements!
 
-<h2>
-Table of Contents
-</h2>
 
 - [Awesome Uncertainty in Deep learning](#awesome-uncertainty-in-deep-learning)
 - [Papers](#papers)
